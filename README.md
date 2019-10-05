@@ -10,18 +10,28 @@ This script is used in mass deployment of Linux mobile devices that require a di
 
 
 ## :books: Installation Instructions
-
+Coming soon
 
 ## :pencil: Important Note 
+Coming soon
+
+• Once the script is ran, it will delete itself from the machine; if you run this from a fileshare you will want to disable this.
 
 ## :rotating_light: Warning
+
+Coming soon
 
 
 ## :computer: Getting Started
 
+Coming soon
 
 
 ## :zap: FAQs
 
+Coming soon
+
   
 ## :globe_with_meridians: [Organisation](https://narehood.net/)
+
+Coming soon
