@@ -1,5 +1,5 @@
 # Wi-Fi-Key-Automation
-This script can be used in mass deployment of Linux mobile devices that require a different Wi-Fi password for each computer that is deployed into a network. This script works to speed up post imaging of large groups of Linux machines.
+A very simple script that can be used in mass deployment of Linux mobile devices that require a different Wi-Fi password for each computer that is deployed into a network. This script works to speed up post imaging of large groups of Linux machines.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.netlify.com/)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Narehood/Wi-Fi-Key-Automation)&nbsp;
